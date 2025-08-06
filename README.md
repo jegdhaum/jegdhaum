@@ -1,16 +1,25 @@
-## Hi there 👋
+# 🌿 Hey, I'm Jennifer
 
-<!--
-**jegdhaum/jegdhaum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like making small, strange, and sometimes useful things on the internet.  
+Mostly experimenting, occasionally shipping. Always learning.
 
-Here are some ideas to get you started:
+## 🧩 What I do
+- Automate repetitive stuff with scripts and spreadsheets  
+- Tinker with web interfaces and static sites  
+- Build tools no one asked for but someone might need  
+- Explore the boundaries between code, creativity, and chaos  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧪 Side interests
+- Digital minimalism & privacy
+- Old web aesthetics
+- Static site generators
+- Markdown everywhere
+
+## 📎 Currently learning
+- TypeScript basics  
+- How not to over-engineer everything  
+- Living with less code
+
+## 📫 Contact
+You probably won't find me on social media,  
+but feel free to open an issue or fork something weird.
